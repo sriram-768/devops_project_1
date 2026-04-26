@@ -1,4 +1,7 @@
 # 🚀 Smart Task Manager – DevOps + Full Stack Project
+AWS architecture of this project
+<img width="5172" height="2768" alt="image" src="https://github.com/user-attachments/assets/74741fe3-e44c-4c80-b1a3-f4d1b61a8b37" />
+
 
 ## 📌 Project Overview
 
